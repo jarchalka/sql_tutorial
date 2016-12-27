@@ -4,6 +4,14 @@ bash - konsola
 remote repository - github, gitlab etc.
 local repository - on computer
 
+in text editor
+	:q - quit
+	:wq - (write) save changes and quit
+
 echo "# tutorials" >> README.md - make 
 git init	- initialize new repository
 git add file_name	- add new file
+git add --all	- add all files
+
+
+git status - print status of files
