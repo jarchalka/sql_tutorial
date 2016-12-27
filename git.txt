@@ -1,0 +1,9 @@
+GUI - graphical user interface
+bash - konsola
+
+remote repository - github, gitlab etc.
+local repository - on computer
+
+echo "# tutorials" >> README.md - make 
+git init	- initialize new repository
+git add file_name	- add new file

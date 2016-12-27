@@ -1,0 +1,13 @@
+chrome:
+ctrl + d - bookmark
+ctrl + t - new tab
+ctrl + w - close tab
+
+windows:
+ctrl + shift + n - new folder
+ctrl + n  new window
+f2 - edit name of folder/file
+alt + tab - change window
+
+inne:
+ctrl + z - back

@@ -1,0 +1,4 @@
+ls - list of files/folders
+cd directory_name - change directory
+cd .. - go one level up
+cd ../dir_name - one level up and than change dir
