@@ -12,7 +12,9 @@ echo "# tutorials" >> README.md - make
 git init	- initialize new repository
 git add file_name	- add new file
 git add --all	- add all files
-git remote add origin https://github.com/jarchalka/tutorials.git	
-git push -u origin master
+git remote add origin https://github.com/jarchalka/tutorials	- set remote repository at github
+git push -u origin master	- push changes to remote repo
 
 git status - print status of files
+
+git clone https://github.com/jarchalka/tutorials	- copy remote repository onto disk
