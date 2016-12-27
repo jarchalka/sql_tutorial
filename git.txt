@@ -12,6 +12,7 @@ echo "# tutorials" >> README.md - make
 git init	- initialize new repository
 git add file_name	- add new file
 git add --all	- add all files
-
+git remote add origin https://github.com/jarchalka/tutorials.git	
+git push -u origin master
 
 git status - print status of files
