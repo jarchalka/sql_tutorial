@@ -18,3 +18,5 @@ git push -u origin master	- push changes to remote repo
 git status - print status of files
 
 git clone https://github.com/jarchalka/tutorials	- copy remote repository onto disk
+
+git pull origin master - update local repo from remote
